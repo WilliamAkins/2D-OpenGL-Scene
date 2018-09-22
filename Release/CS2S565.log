@@ -1,0 +1,19 @@
+﻿Build started 20/11/2017 21:47:37.
+     1>Project "C:\Users\William Akins\Documents\Visual Studio 2013\Projects\CS2S565\CS2S565.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt draw_scene.cpp main.cpp shader_setup.cpp stdafx.cpp texture_loader.cpp
+         draw_scene.cpp
+     1>c:\users\william akins\documents\visual studio 2013\projects\cs2s565\stdafx.h(15): fatal error C1083: Cannot open include file: 'FreeImage\FreeImagePlus.h': No such file or directory
+         main.cpp
+     1>c:\users\william akins\documents\visual studio 2013\projects\cs2s565\stdafx.h(15): fatal error C1083: Cannot open include file: 'FreeImage\FreeImagePlus.h': No such file or directory
+         shader_setup.cpp
+     1>c:\users\william akins\documents\visual studio 2013\projects\cs2s565\stdafx.h(15): fatal error C1083: Cannot open include file: 'FreeImage\FreeImagePlus.h': No such file or directory
+         stdafx.cpp
+     1>c:\users\william akins\documents\visual studio 2013\projects\cs2s565\stdafx.h(15): fatal error C1083: Cannot open include file: 'FreeImage\FreeImagePlus.h': No such file or directory
+         texture_loader.cpp
+     1>c:\users\william akins\documents\visual studio 2013\projects\cs2s565\stdafx.h(15): fatal error C1083: Cannot open include file: 'FreeImage\FreeImagePlus.h': No such file or directory
+     1>Done Building Project "C:\Users\William Akins\Documents\Visual Studio 2013\Projects\CS2S565\CS2S565.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.70
